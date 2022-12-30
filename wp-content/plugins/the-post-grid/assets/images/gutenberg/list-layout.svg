@@ -1,0 +1,25 @@
+<svg width="88" height="82" viewBox="0 0 88 82" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_8_689" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="88" height="82">
+<path d="M23.7661 2H2V23.0589H23.7661V2Z" stroke="#333333" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M33.0384 4.90739H57.0833" stroke="#333333" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M33.0384 12.5295H86" stroke="#333333" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M33.0384 20.1515H86" stroke="#333333" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M23.7661 30.3667H2V51.4256H23.7661V30.3667Z" stroke="#333333" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M33.0384 33.2741H57.0833" stroke="#333333" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M33.0384 40.8962H86" stroke="#333333" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M33.0384 48.5182H86" stroke="#333333" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M23.7661 58.7334H2V79.7923H23.7661V58.7334Z" stroke="#333333" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M33.0384 61.6408H57.0833" stroke="#333333" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M33.0384 69.2629H86" stroke="#333333" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M33.0384 76.8849H86" stroke="#333333" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</mask>
+<g mask="url(#mask0_8_689)">
+<rect x="-16.073" y="-11.3583" width="121.796" height="104.509" fill="url(#paint0_linear_8_689)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_8_689" x1="105.723" y1="-11.3583" x2="-10.1796" y2="93.1506" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5B21FF"/>
+<stop offset="1" stop-color="#DB00FF"/>
+</linearGradient>
+</defs>
+</svg>
